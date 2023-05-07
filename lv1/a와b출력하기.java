@@ -1,4 +1,4 @@
-package programmers;
+package lv1;
 import java.util.Scanner;
 
 public class a와b출력하기 {

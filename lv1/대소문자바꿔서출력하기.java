@@ -1,4 +1,4 @@
-package programmers;
+package lv1;
 import java.util.Scanner;
 
 public class 대소문자바꿔서출력하기 {
