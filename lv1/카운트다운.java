@@ -1,3 +1,4 @@
+package lv1;
 public class 카운트다운 {
     public static void main(String[] args) {
         

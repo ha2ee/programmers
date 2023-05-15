@@ -1,3 +1,4 @@
+package lv1;
 public class 가까운1찾기 {
     public static void main(String[] args) {
         
