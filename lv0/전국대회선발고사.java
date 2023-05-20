@@ -1,9 +1,7 @@
 package lv0;
 
-import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
-import java.util.stream.Collectors;
 
 public class 전국대회선발고사 {
     public static void main(String[] args) {
@@ -33,7 +31,7 @@ public class 전국대회선발고사 {
             }
         }
 
-        answer = 10000*list.get(0).intValue()+100*list.get(1).intValue()+list.get(2).intValue();
+        answer = 10000*list[0]+100*list[1]+list[2];
         return answer;
     }
 }
